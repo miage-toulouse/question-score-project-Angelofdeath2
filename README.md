@@ -1,8 +1,8 @@
 # MIAGe Master 1 - TP Tests 1
 
-### NOM : DOE
-### Prénom : John
-### Groupe de TP : 
+### NOM : LY
+### Prénom : Ashley
+### Groupe de TP : TP2
 - [ ] 1
 - [x] 2
 - [ ] 3
