@@ -9,7 +9,7 @@ public interface QuestionAChoix {
      * Opération permettant de récupérer l'énoncé de la question
      * @return l'énoncé de la question
      */
-    public String getEnonce();
+    public String getEnonce() ;
 
     /**
      * Opération permettant de récupérer le score donné par un choix.
